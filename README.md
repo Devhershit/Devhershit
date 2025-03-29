@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Harshit<br><br>I'm a passionate and eager new developer excited to contribute to the tech world. I’m currently diving deep into [languages you’re learning or focusing on, e.g., JavaScript, Python, etc.] and building projects to improve my skills. My journey in development has just begun, and I’m committed to continuous learning and growth.<br><br>🔭 Currently working on:  <br>- Personal projects to practice my coding skills  <br>- Exploring open-source contributions<br><br>🌱 Learning:<br>- Frontend frameworks like React, backend development, databases, etc.  <br>- Other technologies : DevOps, Cloud Computing, etc.<br>
+👋 Hi there! I'm Harshit<br><br>I'm a passionate and eager new developer excited to contribute to the tech world. I’m currently diving deep into JavaScript, Python, c ,  and building projects to improve my skills. My journey in development has just begun, and I’m committed to continuous learning and growth.<br><br>🔭 Currently working on:  <br>- Personal projects to practice my coding skills  <br>- Exploring open-source contributions<br><br>🌱 Learning:<br>- Frontend frameworks like React, backend development, databases, etc.  <br>- Other technologies : DevOps, Cloud Computing, etc.<br>
 
 
 # 💻 Tech Stack:
